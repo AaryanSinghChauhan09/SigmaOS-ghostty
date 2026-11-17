@@ -3,7 +3,7 @@ name = "SigmaOS-ghostty"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ghostty component"
+description = "SigmaOS SigmaOS-ghostty component"
 upstream = []
 
 [contract]
